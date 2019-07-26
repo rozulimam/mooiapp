@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "754044494668",
+    "firebase_url": "https://pushjagomart.firebaseio.com",
+    "project_id": "pushjagomart",
+    "storage_bucket": "pushjagomart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754044494668:android:6164c974953d16b6",
+        "android_client_info": {
+          "package_name": "id.jagomart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754044494668-2qciqglbmfdcfo8pes1sm9hj9ksoh9g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjAkTd7-XD5acDdhS1HMuqOMLTR99DDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
