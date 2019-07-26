@@ -34,7 +34,7 @@
 <plugin name="es6-promise-plugin" spec="4.1.0"/>
 <plugin name="com.guinatal.refreshgallery" spec="https://github.com/guinatal/refreshgallery.git"/>
 <plugin name="com.verso.cordova.clipboard" spec="https://github.com/VersoSolutions/CordovaClipboard.git"/> 
-
+<plugin name="phonegap-plugin-push" spec="2.0.0"/>
 
 <platform  name="ios">
     <!-- below requires the splash screen plugin -->
