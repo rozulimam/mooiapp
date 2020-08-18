@@ -1,3 +1,3 @@
-$.getScript("http://mooiapp.com/function.js", function(){ 
+$.getScript("https://mooiapp.com/function.js", function(){ 
 
 });
